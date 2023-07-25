@@ -1,6 +1,6 @@
 <div align="center">
-
-![Icon-MacOS-512x512@2x](https://github.com/prestonmohr/copy-versions/assets/77995599/ca93d024-2381-4f30-b874-3b4742c701cb)
+  
+![Icon-MacOS-128x128@1x](https://github.com/prestonmohr/copy-versions/assets/77995599/a49ee4c5-7596-4097-9c0a-fd7100a7e645)
 
 # Copy Versions
 a macos app to copy and sort vfx version files (mov, mxf, and mp4) as apart of a vfx workflow. 
