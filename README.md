@@ -11,6 +11,6 @@ set the vfx shot tree filepath and folder structure in the settings window
 
 paste the version names into the version name dump bin, set your target directory, and specify the filetype you're looking for
 
-<img width="1012" alt="Screenshot 2023-07-24 at 8 02 39 PM" src="https://github.com/prestonmohr/copy-versions/assets/77995599/fb1c7ff3-1bc7-4ed3-9726-14a955dde5aa">
+<img width="1012" alt="Screenshot 2023-07-24 at 11 29 13 PM" src="https://github.com/prestonmohr/copy-versions/assets/77995599/68561e37-ea68-49e1-8d81-080bcfaa7119">
 
 </div>
