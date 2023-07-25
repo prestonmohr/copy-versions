@@ -23,7 +23,7 @@ struct ContentView: View {
         ScrollView {
             Section {
                 HStack{
-                    Text("Copy Versions v1.30")
+                    Text("Copy Versions v1.4.0")
                         .font(.largeTitle)
                         .bold()
                     Button(action: openSettings) {
@@ -131,12 +131,12 @@ struct ContentView: View {
                             //.bold()
                     }
                     if #available(macOS 13.0, *) {
-                        Text("choose between .mov and .mxf")
+                        Text("choose between .mov, .mxf, and .mp4")
                             .font(.caption)
                             .frame(maxWidth: .infinity, alignment: .leading)
                             .italic()
                     } else {
-                        Text("_choose between .mov and .mxf_")
+                        Text("_choose between .mov, .mxf, and .mp4_")
                             .font(.caption)
                             .frame(maxWidth: .infinity, alignment: .leading)
                             //.italic()
