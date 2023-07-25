@@ -7,7 +7,7 @@ a macos app to copy and sort vfx version files (mov, mxf, and mp4) as apart of a
 
 set the vfx shot tree filepath and folder structure in the settings window
 
-<img width="512" alt="Screenshot 2023-07-24 at 8 01 13 PM" src="https://github.com/prestonmohr/copy-versions/assets/77995599/bb89d5d0-ce2a-4a22-8952-5a4936e70775">
+<img width="512" alt="Screenshot 2023-07-24 at 11 33 01 PM" src="https://github.com/prestonmohr/copy-versions/assets/77995599/63671fa1-30a1-475c-946c-5d7a537664d6">
 
 paste the version names into the version name dump bin, set your target directory, and specify the filetype you're looking for
 
